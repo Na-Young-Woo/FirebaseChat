@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713821466651",
+    "project_id": "zerotalkver2",
+    "storage_bucket": "zerotalkver2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713821466651:android:f2d903e3319d21c9bf08be",
+        "android_client_info": {
+          "package_name": "com.example.zerotalkver2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713821466651-psmkph96r4gcdkuoqh5koailo9tilgvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNxZUmdCES0Qz1jIOPaCXDp_C7-umyILY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713821466651-psmkph96r4gcdkuoqh5koailo9tilgvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
